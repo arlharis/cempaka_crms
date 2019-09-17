@@ -1,0 +1,4 @@
+/**/
+      $myfile = fopen("check.txt","w");
+      fwrite($myfile, $sql);
+      fclose($myfile);

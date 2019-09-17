@@ -1,0 +1,19 @@
+table {
+border-style: hidden;
+}
+
+td {
+border-style: hidden;
+
+}
+
+
+legend{
+	margin-left:50px;
+	margin-right:auto;
+	overflow: hidden;
+	border-style: hidden;
+
+}
+
+ 
