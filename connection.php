@@ -4,7 +4,7 @@ server with default setting (user 'root' with no password) */
 $hostname_myConn = "localhost";
 $database_myConn = "id8514774_cempaka_crms";
 $username_myConn = "id8514774_cempakacrms";
-$password_myConn = "garena126089";
+$password_myConn = "";
 //echo "you are at kretam\includes\connection\connections.php <br>";
 $link = mysqli_connect($hostname_myConn,$username_myConn,$password_myConn,$database_myConn);
 
